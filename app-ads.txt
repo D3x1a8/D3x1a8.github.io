@@ -6,7 +6,7 @@
 OWNERDOMAIN=d3x1a8.github.io
 
 # Direct relationships
-# ironsrc.com, <ironSource publisher ID>, DIRECT  (to add: LevelPlay > Account > API > Publisher ID)
+ironsrc.com, 694591, DIRECT
 unity.com, 157233560, DIRECT, 96cabb5fbdde37a7
 
 # Authorized resellers
